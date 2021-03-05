@@ -1,7 +1,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- ABOUT -->
-## About The Project
+## About
 
 Projects I developed using Octane during the Machine Learning Course taught by Andrew Ng and Stanford University. 
 
