@@ -4,6 +4,7 @@
 ## About
 
 Procedural generation of simple planets using the Unity(2020.3.1f1) game engine.
+Based on Sebastian Lague's Procedural Planets series of tutorials: https://www.youtube.com/playlist?list=PLFt_AvWsXl0cONs3T0By4puYy6GM22ko8
 
 
 <!-- CONTACT -->
