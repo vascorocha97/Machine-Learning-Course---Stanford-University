@@ -3,7 +3,7 @@
 <!-- ABOUT -->
 ## About
 
-Projects I developed using Octave during the Machine Learning Course taught by Andrew Ng and Stanford University. 
+Procedural generation of simple planets using the Unity(2020.3.1f1) game engine.
 
 
 <!-- CONTACT -->
@@ -11,7 +11,7 @@ Projects I developed using Octave during the Machine Learning Course taught by A
 
 Vasco Rocha - vascoalexandrerocha97@gmail.com
 
-Project Link: [Machine Learning Course - Stanford University](https://github.com/vascorocha97/Machine-Learning-Course-Stanford-University)
+Project Link: [Procedural Planet Generation (Unity)](https://github.com/vascorocha97/Procedural-Planet-Generation-Unity)
 
 
 
